@@ -1,0 +1,17 @@
+# CS360
+CS 360 Final Project
+Responses to Module 8 questions:
+
+The weight-tracking app was developed with the goal of helping users track their weight and monitor their progress towards their weight management goals. The app was designed to address user needs such as easily recording and visualizing weight data, setting weight goals, and providing insights into their weight loss or gain trends.
+
+To support these user needs and create a user-centered UI, the app required several screens and features. The main screens included a login/signup screen for user authentication, a dashboard screen to display weight statistics and trends, a weight entry screen for recording weight measurements, a goals screen to set weight goals, and a history screen to view past weight entries. The UI designs kept users in mind by ensuring a clean and intuitive layout, using clear labels and instructions, and providing visual representations of weight data through charts and graphs. The designs were successful because they prioritized ease of use and allowed users to quickly access the necessary functions without unnecessary complexity.
+
+During the coding process, a structured approach was followed. Object-oriented programming principles were applied, such as creating classes and objects to represent different app components. Modularization and code reusability were emphasized to maintain a clean and maintainable codebase. Techniques like error handling and input validation were implemented to enhance the app's robustness and user experience. These strategies can be applied in the future to improve code quality, promote code reuse, and ensure better error handling and user input validation.
+
+To ensure the functionality of the code, rigorous testing was performed. Unit tests were written to verify individual components and functions, and integration testing was conducted to ensure the smooth interaction between different parts of the app. This testing process is important to identify and fix bugs, ensure proper functionality, and enhance the overall user experience. It revealed any issues or inconsistencies in the app's behavior and allowed for refinements and improvements to be made before finalization.
+
+In the app design and development process, innovation was required to overcome challenges, particularly in the implementation of the weight tracking and analysis features. Innovations included the integration of charting libraries to visualize weight data, implementing algorithms to calculate weight trends and goal progress, and providing personalized insights based on the user's data. These innovations enhanced the app's value and utility, providing users with meaningful information and facilitating their weight management journey.
+
+In terms of demonstrating knowledge, skills, and experience, the successful implementation of the weight entry and tracking component showcased proficiency in handling user input, data management, and data visualization. The ability to accurately record weight measurements, update the user interface in real-time, and present data trends effectively demonstrated technical competence and understanding of user-centric design principles.
+
+Overall, the weight-tracking app project encompassed various aspects of mobile app development, including UI/UX design, coding, testing, and innovation. It provided opportunities to apply knowledge and skills while addressing user needs, resulting in a functional and user-friendly app.
